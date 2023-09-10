@@ -12,6 +12,9 @@ This Flutter application allows users to recognize objects inside images using a
 
 - **Main Page**: Users can upload an image from the camera or device's storage. Once uploaded, the image is sent to the Clarifai API for object recognition. The response from the API is displayed in a text field on the main page.
 
+## Using as a Template
+This app can serve as a template for applications that utilize APIs and machine learning for various purposes. You can adapt and expand upon the existing codebase to create your own custom applications with similar functionality.
+
 ## Platform Compatibility
 
 This app is compatible with the following platforms:
@@ -53,6 +56,9 @@ To use this code, follow these steps:
 
 In order to configure Firebase and Clarifai API, you will need to replace the following placeholders in the app:
 
-  - Firebase configuration settings in 'lib/config/firebase_config.dart.'
-  - Clarifai API tokens in 'lib/services/clarifai_service.dart.'
-
+  - Firebase configuration settings in 'lib/backend/firebase/firebase_config.dart'
+  - Clarifai API tokens in 'lib/backend/api_requests/api_calls.dart' (ImageRecognitionCall class)
+## Acknowledgments
+This app was developed with Flutter, Firebase, Clarifai, and FlutterFlow, leveraging their respective documentation and resources.
+## Contact
+For questions or inquiries, please contact me at ferasdc18@gmail.com.
