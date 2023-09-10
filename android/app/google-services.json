@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269530124571",
+    "project_id": "image-recognition-fb9a0",
+    "storage_bucket": "image-recognition-fb9a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269530124571:android:8fe44d0b2d7b97e0ed83be",
+        "android_client_info": {
+          "package_name": "com.flutterflow.fluttermet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_tnUopr47hILRblLHRsUABZKp1xcLqNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
