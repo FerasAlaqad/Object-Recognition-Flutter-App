@@ -2,7 +2,7 @@
 
 This Flutter application allows users to recognize objects inside images using an AI image recognition model. It includes three main pages: login, create account, and the main page for image recognition.
 
-![App Screenshots](/screenshots/1.png)
+![App Screenshots](/screenshots/2.png)
 
 ## Features
 
